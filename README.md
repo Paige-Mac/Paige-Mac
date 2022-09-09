@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>
 My name is Mac 
-<p>(she/her/hers)</p>
+
 <p>Q: What does a baby computer call his father?</p>
 
 <p>A: Data!</p>
